@@ -1,0 +1,6 @@
+{
+  "name": "matrixlib",
+  "version-string": "1.0.0",
+  "description": "C++20 matrix library for an experiment on strong exception safety",
+  "dependencies": ["gtest"]
+}
